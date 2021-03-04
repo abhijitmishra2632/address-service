@@ -12,7 +12,7 @@ import javax.persistence.Table;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-@Table(name = "address03")
+@Table(name = "address003")
 public class Address {
     @Id
     private Long mobileNumber;
